@@ -1,0 +1,17 @@
+G:\Новиков Максим\C#\WF7\WF7\bin\Debug\net6.0-windows\WF7.exe
+G:\Новиков Максим\C#\WF7\WF7\bin\Debug\net6.0-windows\WF7.deps.json
+G:\Новиков Максим\C#\WF7\WF7\bin\Debug\net6.0-windows\WF7.runtimeconfig.json
+G:\Новиков Максим\C#\WF7\WF7\bin\Debug\net6.0-windows\WF7.dll
+G:\Новиков Максим\C#\WF7\WF7\bin\Debug\net6.0-windows\WF7.pdb
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\WF7.csproj.AssemblyReference.cache
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\WF7.mainForm.resources
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\WF7.csproj.GenerateResource.cache
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\WF7.GeneratedMSBuildEditorConfig.editorconfig
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\WF7.AssemblyInfoInputs.cache
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\WF7.AssemblyInfo.cs
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\WF7.csproj.CoreCompileInputs.cache
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\WF7.dll
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\refint\WF7.dll
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\WF7.pdb
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\WF7.genruntimeconfig.cache
+G:\Новиков Максим\C#\WF7\WF7\obj\Debug\net6.0-windows\ref\WF7.dll
